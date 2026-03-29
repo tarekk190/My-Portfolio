@@ -26,7 +26,7 @@ const Contact = () => {
               autoComplete="off"
               required
               type="email"
-              value={'tarek.helal.dev@gmail.com'}
+              value={'tarek.helal.div@gmail.com'}
               name="email"
               id="email"
             />
