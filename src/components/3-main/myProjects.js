@@ -24,7 +24,7 @@ export const myProjects = [
     projectTitle: "Next Project",
     category: ["next"],
     imgPath: "./img/image10.png",
-    des: "Built a modern E-Commerce web application using Next.js, React, and TypeScript, designed to deliver a complete online shopping experience with Arabic and English localization, secure authentication, cart and checkout flows, and an admin dashboard for managing products, orders, and users. The project follows a scalable front-end architecture and focuses on performance, responsive design, and a smooth user experience.",
+    des: "Developed a bilingual E-Commerce platform with Next.js 16, React 19, and TypeScript, featuring product browsing, authentication, cart functionality, admin management, and a responsive UI. The project also integrates modern form validation, animations, and reusable component patterns for a scalable user experience.",
     liveDemo:'https://iphone-store-pi.vercel.app/'
   },
   {
