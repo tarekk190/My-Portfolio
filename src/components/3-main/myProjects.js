@@ -24,7 +24,7 @@ export const myProjects = [
     projectTitle: "Next Project",
     category: ["next"],
     imgPath: "./img/image10.png",
-    des: "Built an immersive iPhone store experience with smooth animations and interactive 3D visuals inspired by a modern Apple-style presentation Developed using Three.js and GSAP to create a high-end engaging interface with strong visual",
+    des: "Built a modern E-Commerce web application using Next.js, React, and TypeScript, designed to deliver a complete online shopping experience with Arabic and English localization, secure authentication, cart and checkout flows, and an admin dashboard for managing products, orders, and users. The project follows a scalable front-end architecture and focuses on performance, responsive design, and a smooth user experience.",
     liveDemo:'https://iphone-store-pi.vercel.app/'
   },
   {
