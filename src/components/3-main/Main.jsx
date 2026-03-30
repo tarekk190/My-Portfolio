@@ -59,14 +59,14 @@ const Main = () => {
         >
           React 
         </button>
-        {/* <button
+        <button
           onClick={() => {
-            handleClick("node");
+            handleClick("next");
           }}
-          className={currentActive === "node" ? "active" : null}
+          className={currentActive === "next" ? "active" : null}
         >
-          Node & Express
-        </button> */}
+          Next JS
+        </button>
       </section>
 
       <section className=" flex right-section">

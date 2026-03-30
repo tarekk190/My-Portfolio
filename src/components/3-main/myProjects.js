@@ -21,11 +21,18 @@ export const myProjects = [
     liveDemo:'https://daf3a-eight.vercel.app/'
   },
   {
+    projectTitle: "Next Project",
+    category: ["next"],
+    imgPath: "./img/image10.png",
+    des: "Built an immersive iPhone store experience with smooth animations and interactive 3D visuals inspired by a modern Apple-style presentation Developed using Three.js and GSAP to create a high-end engaging interface with strong visual",
+    liveDemo:'https://iphone-store-pi.vercel.app/'
+  },
+  {
     projectTitle: "React Project",
     category: ["react"],
     imgPath: "./img/image3.png",
     des: "Built an immersive iPhone store experience with smooth animations and interactive 3D visuals inspired by a modern Apple-style presentation Developed using Three.js and GSAP to create a high-end engaging interface with strong visual",
-    liveDemo:'https://iphone-store-pi.vercel.app/'
+    liveDemo:'https://next-e-commerce-ruddy.vercel.app/en'
   },
   
   {
